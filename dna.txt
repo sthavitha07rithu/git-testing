@@ -1,0 +1,1 @@
+DNA contains four nucleotides: A,T,G and C
